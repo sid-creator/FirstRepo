@@ -4,3 +4,4 @@ Hospital Management Syste,
 
 Patient Registration
 Visit to doctor
+Medical test
